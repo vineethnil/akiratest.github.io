@@ -1,2 +1,0 @@
-# akiratest.github.io
-test
